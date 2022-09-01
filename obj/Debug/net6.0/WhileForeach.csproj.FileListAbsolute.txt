@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\bin\Debug\net6.0\WhileForeach.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\bin\Debug\net6.0\WhileForeach.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\bin\Debug\net6.0\WhileForeach.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\bin\Debug\net6.0\WhileForeach.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\bin\Debug\net6.0\WhileForeach.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\refint\WhileForeach.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\WhileForeach.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\WhileForeach\obj\Debug\net6.0\ref\WhileForeach.dll
